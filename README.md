@@ -18,11 +18,11 @@
 ## Folder Description:
 
 data: Total-Text (dataset used for training and testing)
-dataset: Codes to run the data
-Models: Weights of all models
-output: Output pixel coordinates folder
-util: Codes for configuration and post-processing
-vis: Output images visualization folder 
+<br>dataset: Codes to run the data
+<br>Models: Weights of all models
+<br>output: Output pixel coordinates folder
+<br>util: Codes for configuration and post-processing
+<br>vis: Output images visualization folder 
 
 
 ## Folders in vis and output description:
