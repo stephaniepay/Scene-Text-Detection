@@ -1,7 +1,7 @@
 ## Requirements:
-PyTorch 1.13.1 
-CUDA 11.6
-GPU-P6000 24GB, 30GB RAM, and 8 CPUs
+- PyTorch 1.13.1 
+- CUDA 11.6
+- GPU-P6000 24GB, 30GB RAM, and 8 CPUs
 
 
 ## File naming description:
