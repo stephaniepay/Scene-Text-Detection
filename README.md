@@ -1,20 +1,22 @@
-Requirements:
+## Requirements:
 PyTorch 1.13.1 
 CUDA 11.6
 GPU-P6000 24GB, 30GB RAM, and 8 CPUs
 
 
-File naming description:
-Stage 1: Backbone Switching
+## File naming description:
+
+#### Stage 1: Backbone Switching
 - Run the ipynb files
 - Each file represents a model
 
-Stage 2: Proposed Model Implementation
+#### Stage 2: Proposed Model Implementation
 - Run the ipynb files
 - Each file represent the proposed model with Spatial Transformer Network, Atrous Spatial Pyramid Pooling, and ResNet50
 
 
-Folder Description:
+## Folder Description:
+
 data: Total-Text (dataset used for training and testing)
 dataset: Codes to run the data
 Models: Weights of all models
@@ -23,7 +25,8 @@ util: Codes for configuration and post-processing
 vis: Output images visualization folder 
 
 
-Folders in vis and output description:
+## Folders in vis and output description:
+
 resnet_ASPP_LATE_3: 
 Stage 2 - RESNET50 +ASPP
 
